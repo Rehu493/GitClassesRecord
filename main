@@ -1,4 +1,10 @@
 this is my mainfile
 
 
+<<<<<<< HEAD
 this is written by main and only commit , after git pull
+=======
+
+
+This file is written and push by UAT
+>>>>>>> UAT
